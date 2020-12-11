@@ -1,14 +1,15 @@
-# Hi there 👋.
+# Hi, I'm Waleed 👋.
 
-* 🔭 I’m always self-learning how to code everything.  
-* 🌱 I’m about to become a full-stack developer, marketing, and sometimes digging deepere in SwiftUI.  
-* 🎶 I'm interested in everything related to art. I sing 🎤, I draw 🎨, I design 🖌, but I don't play guitar 🎸.  
-* ⚡ Fun fact: I learnt progrmaming in 17th to get some money to do buy coffee machine ☕️, I finally did it, it made 2020 bearable.  
-* 🙊 Shocking fact: I used to know Swift, but not anymore. 
-* 📫 How to reach me: I only retweet memes on twitter/waliiidals, I share my daily life on instagram/waliiidals.  
-* 📧 Email: waliiidals@hotmail.com
+* 🔭 I am a full stack developer, which means I can build a ~~computer~~ website.  
+* 🎶 I'm interested in every sports that involve skating 🛹, surf 🏄‍♂️, and Ice skate ⛸.
+* 🌱 I am addicted coffee ☕️.
+* ⚡ Fun fact: I started to learn to program so I can buy a coffee machine. Finally, I made it. It made 2020 bearable. 
+* 🙊 Once I knew Swift, sadly, I dont anymore.
 
-### My Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waliiidals&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Some of my deployed pojects
+
+[Quotation](https://joinquotation.netlify.app)
+
+## My Status
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waliiidals&show_icons=true)
