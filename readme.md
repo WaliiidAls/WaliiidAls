@@ -9,6 +9,8 @@
 ## Some of my deployed pojects
 
 [Quotation](https://joinquotation.netlify.app)
+[KoalaSurvey](https://koalasurvey.netlify.app)
+[BookAPI](https://book-api.netlify.app)
 
 ## My Status
 
