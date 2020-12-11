@@ -8,6 +8,7 @@
 * 📫 How to reach me: I only retweet memes on twitter/waliiidals, I share my daily life on instagram/waliiidals.  
 * 📧 Email: waliiidals@hotmail.com
 
-### github status
+### My Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waliiidals&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waliiidals&show_icons=true)
