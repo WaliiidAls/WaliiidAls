@@ -7,3 +7,7 @@
 * 🙊 Shocking fact: I used to know Swift, but not anymore. 
 * 📫 How to reach me: I only retweet memes on twitter/waliiidals, I share my daily life on instagram/waliiidals.  
 * 📧 Email: waliiidals@hotmail.com
+
+### github status
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waliiidals)](https://github.com/anuraghazra/github-readme-stats)
